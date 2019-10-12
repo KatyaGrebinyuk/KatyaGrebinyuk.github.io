@@ -1,0 +1,5 @@
+body{
+	background: url(фон2.jpg);
+	background-size: width=100%;
+	background-attachment: fixed;
+}
